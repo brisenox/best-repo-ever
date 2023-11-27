@@ -1,2 +1,2 @@
 # best-repo-ever
-Salesforce Trailhead Excerise
+Salesforce Trailhead Exercise
